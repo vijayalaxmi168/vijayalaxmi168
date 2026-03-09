@@ -1,6 +1,6 @@
 # Vijayalaxmi Biradar
 
-**Java Backend Developer 
+Java Backend Developer 
 
 ---
 
