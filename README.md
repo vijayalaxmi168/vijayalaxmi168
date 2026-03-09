@@ -6,7 +6,7 @@ Java Backend Developer
 
 ## About
 
-MCA graduate(2025) from BLDEA's V.P. Dr. P.G. Halakatti College of Engineering & Technology, Vijayapura (2025) with a CGPA of 8.3. I specialize in building secure, scalable backend systems using Java and Spring Boot, with a focus on clean architecture, REST API design, and application security.
+MCA graduate(2025) from BLDEA's V.P. Dr. P.G. Halakatti College of Engineering & Technology, Vijayapura with a CGPA of 8.3. I specialize in building secure, scalable backend systems using Java and Spring Boot, with a focus on clean architecture, REST API design, and application security.
 
 Currently seeking entry-level Java backend development opportunities where I can contribute to real-world systems and grow alongside a strong engineering team.
 
