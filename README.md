@@ -1,6 +1,6 @@
 # Vijayalaxmi Biradar
 
-**Java Backend Developer · MCA Graduate · Vijayapura, Karnataka**
+**Java Backend Developer 
 
 ---
 
