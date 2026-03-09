@@ -61,7 +61,7 @@ Personal portfolio site showcasing projects, technical skills, and services. Bui
 
 **Master of Computer Applications (MCA)**
 BLDEA's V.P. Dr. P.G. Halakatti College of Engineering & Technology, Vijayapura
-2025 · CGPA: 8.3
+2025   · CGPA: 8.3
 
 ---
 
