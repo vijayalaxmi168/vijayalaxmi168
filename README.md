@@ -67,7 +67,7 @@ BLDEA's V.P. Dr. P.G. Halakatti College of Engineering & Technology, Vijayapura
 
 ## Contact
 
-- **Portfolio:** [teal-dusk-96607b.netlify.app](https://teal-dusk-96607b.netlify.app)
+- **Portfolio:** radiant-cat-c62c79.netlify.app
 - **LinkedIn:** [linkedin.com/in/vijaylaxmi-biradar-v24](https://www.linkedin.com/in/vijaylaxmi-biradar-v24/)
 - **Email:** [vijayalaxmib0106@gmail.com](mailto:vijayalaxmib0106@gmail.com)
 - **GitHub:** [github.com/vijayalaxmi168](https://github.com/vijayalaxmi168)
