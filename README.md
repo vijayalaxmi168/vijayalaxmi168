@@ -14,7 +14,7 @@ Currently seeking entry-level Java backend development opportunities where I can
 
 ## Technical Skills
 
-**Languages:** Java, SQL, HTML5, CSS3
+**Languages:** Java, SQL, HTML5, CSS3 , JavaScript (ES6+) 
 
 **Frameworks & Libraries:** Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Spring AI, Hibernate, Lombok, Swagger / OpenAPI
 
@@ -24,7 +24,7 @@ Currently seeking entry-level Java backend development opportunities where I can
 
 **Tools & Platforms:** Git, GitHub, Maven, IntelliJ IDEA, Postman, Docker, MySQL Workbench, Eclipse
 
-**Core Concepts:** Object-Oriented Programming, Layered Architecture, REST API Design, Exception Handling, Data Structures, Problem Solving
+**Core Concepts:** Object-Oriented Programming, Layered Architecture, REST API Design, OPerating System, Computer Networks, DBMS, Data Structures, Problem Solving
 
 ---
 
@@ -57,7 +57,7 @@ using Thymeleaf templates with a clean dark UI.
 
 ---
 ### Portfolio Website
-[vijayalaxmib-portfolio.netlify.app/](https://vijayalaxmib-portfolio.netlify.app/)
+[vijayalakshmi6-portfolio.netlify.app/](https://vijayalakshmi6-portfolio.netlify.app/)
 
 Personal portfolio site showcasing projects, technical skills, and services. Built with HTML, CSS, Javascript and deployed on Netlify.
 
@@ -75,7 +75,7 @@ BLDEA's V.P. Dr. P.G. Halakatti College of Engineering & Technology, Vijayapura
 
 ## Contact
 
-- **Portfolio:** [vijayalaxmib-portfolio.netlify.app/](https://vijayalaxmib-portfolio.netlify.app/)
+- **Portfolio:** [vijayalakshmi6-portfolio.netlify.app/](https://vijayalakshmi6-portfolio.netlify.app/)
 - **LinkedIn:** [linkedin.com/in/vijaylaxmi-biradar-v24](https://www.linkedin.com/in/vijaylaxmi-biradar-v24/)
 - **Email:** [vijayalaxmib0106@gmail.com](mailto:vijayalaxmib0106@gmail.com)
 - **GitHub:** [github.com/vijayalaxmi168](https://github.com/vijayalaxmi168)
