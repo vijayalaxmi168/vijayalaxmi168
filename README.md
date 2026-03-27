@@ -1,6 +1,6 @@
 # Vijayalaxmi Biradar
 
-Java Backend Developer 
+Java Developer 
 
 ---
 
@@ -48,12 +48,12 @@ A Spring Boot backend integrated with Groq AI to generate context-aware email re
 
 ---
 ## Weather Forecast App
-__github.com/vijayalaxmi168/Weather-Forecast__
-A Spring Boot web application that fetches real-time weather data 
-and displays a 5-day forecast for any city in the world. 
-Consumes the OpenWeatherMap REST API and renders results 
+[github.com/vijayalaxmi168/Weather-Forecast](https://github.com/vijayalaxmi168/Weather-Forecast)
+
+A Spring Boot web application that fetches real-time weather data and displays a 5-day forecast for any city in the world. Consumes the OpenWeatherMap REST API and renders results 
 using Thymeleaf templates with a clean dark UI.
-Stack: Spring Boot 3 · Thymeleaf · RestTemplate · Jackson · Lombok · Maven
+
+**Stack:** Spring Boot 3 · Thymeleaf · RestTemplate · Jackson · Lombok · Maven
 
 ---
 ### Portfolio Website
