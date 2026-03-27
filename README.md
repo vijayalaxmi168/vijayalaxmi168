@@ -47,13 +47,21 @@ A Spring Boot backend integrated with Groq AI to generate context-aware email re
 **Stack:** Spring Boot · Spring AI · REST API · Maven
 
 ---
+## Weather Forecast App
+__github.com/vijayalaxmi168/Weather-Forecast__
+A Spring Boot web application that fetches real-time weather data 
+and displays a 5-day forecast for any city in the world. 
+Consumes the OpenWeatherMap REST API and renders results 
+using Thymeleaf templates with a clean dark UI.
+Stack: Spring Boot 3 · Thymeleaf · RestTemplate · Jackson · Lombok · Maven
 
+---
 ### Portfolio Website
 [vijayalaxmib-portfolio.netlify.app/](https://vijayalaxmib-portfolio.netlify.app/)
 
-Personal portfolio site showcasing projects, technical skills, and services. Built with HTML and CSS and deployed on Netlify.
+Personal portfolio site showcasing projects, technical skills, and services. Built with HTML, CSS, Javascript and deployed on Netlify.
 
-**Stack:** HTML5 · CSS3  · Javascript
+**Stack:** HTML · CSS3 · Javascript
 
 ---
 
