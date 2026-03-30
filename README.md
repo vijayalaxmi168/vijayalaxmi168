@@ -30,12 +30,12 @@ Currently seeking entry-level Java backend development opportunities where I can
 
 ## Projects
 
-### API Access Monitoring System
-[github.com/vijayalaxmi168/api-access-monitor](https://github.com/vijayalaxmi168/api-access-monitor)
+### 🛡️ SecureExam Portal
+[github.com/vijayalaxmi168/secureexam-portal](https://github.com/vijayalaxmi168/secureexam-portal)
 
-A secure backend REST API system with JWT-based authentication and role-based access control for USER and ADMIN roles. Includes automatic API request logging via a Servlet Filter, a suspicious login detection module that generates real-time security alerts, and account lockout after repeated failed attempts.
+A full-stack proctored online examination system with JWT-based authentication and role-based access control for STUDENT and ADMIN roles. Includes real-time anti-cheat violation tracking via browser visibility detection, automatic exam termination after three violations enforced at the backend service layer, and DTO-based answer security ensuring correct answers never leave the server.
 
-**Stack:** Spring Boot · Spring Security · JWT · MySQL · Hibernate · Swagger UI
+**Stack:** Java 21 · Spring Boot 3.4 · Spring Security 6 · JWT · MySQL · Hibernate · React 19 · Swagger UI
 
 ---
 
