@@ -24,7 +24,7 @@ Currently seeking entry-level Java backend development opportunities where I can
 
 **Tools & Platforms:** Git, GitHub, Maven, IntelliJ IDEA, Postman, Docker, MySQL Workbench, Eclipse
 
-**Core Concepts:** Object-Oriented Programming, Layered Architecture, REST API Design, OPerating System, Computer Networks, DBMS, Data Structures, Problem Solving
+**Core Concepts:** Object-Oriented Programming, Operating System, Computer Networks, DBMS,Layered Architecture, REST API Design, Data Structures, Problem Solving
 
 ---
 
