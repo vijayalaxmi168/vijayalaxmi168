@@ -52,6 +52,7 @@ A Spring Boot backend integrated with Groq AI to generate context-aware email re
 
 A Spring Boot web application that fetches real-time weather data and displays a 5-day forecast for any city in the world. Consumes the OpenWeatherMap REST API and renders results 
 using Thymeleaf templates with a clean dark UI.
+Deployed on Render — weatherpulse-forecast.onrender.com
 
 **Stack:** Spring Boot 3 · Thymeleaf · RestTemplate · Jackson · Lombok · Maven
 
