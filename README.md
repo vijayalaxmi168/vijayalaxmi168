@@ -58,7 +58,7 @@ Deployed on Render — [weatherpulse-forecast.onrender.com](https://weatherpulse
 
 ---
 ### Portfolio Website
-[vijayalakshmi6-portfolio.netlify.app/](https://vijayalakshmi6-portfolio.netlify.app/)
+[vijaylaxmi-portfolio](https://vijaylaxmi-portfolio.netlify.app/)
 
 Personal portfolio site showcasing projects, technical skills, and services. Built with HTML, CSS, Javascript and deployed on Netlify.
 
@@ -76,7 +76,7 @@ BLDEA's V.P. Dr. P.G. Halakatti College of Engineering & Technology, Vijayapura
 
 ## Contact
 
-- **Portfolio:** [vijayalakshmi6-portfolio.netlify.app/](https://vijayalakshmi6-portfolio.netlify.app/)
+- **Portfolio:** [vijaylaxmi-portfolio](https://vijaylaxmi-portfolio.netlify.app/)
 - **LinkedIn:** [linkedin.com/in/vijaylaxmi-biradar-v24](https://www.linkedin.com/in/vijaylaxmi-biradar-v24/)
 - **Email:** [vijayalaxmib0106@gmail.com](mailto:vijayalaxmib0106@gmail.com)
 - **GitHub:** [github.com/vijayalaxmi168](https://github.com/vijayalaxmi168)
