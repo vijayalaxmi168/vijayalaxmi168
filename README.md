@@ -1,14 +1,15 @@
 # Vijayalaxmi Biradar
 
-Java Developer 
+Java Full Stack Developer 
 
 ---
 
 ## About
 
-MCA graduate(2025) from BLDEA's V.P. Dr. P.G. Halakatti College of Engineering & Technology, Vijayapura with a CGPA of 8.3. I specialize in building secure, scalable backend systems using Java and Spring Boot, with a focus on clean architecture, REST API design, and application security.
+About
+MCA graduate (2025) from BLDEA's V.P. Dr. P.G. Halakatti College of Engineering & Technology, Vijayapura with a CGPA of 8.3. I specialize in building secure, scalable full-stack applications using Java, Spring Boot, and React.js, with a focus on clean architecture, REST API design, and application security. Currently seeking entry-level Java Full Stack development opportunities where I can contribute to real-world systems and grow alongside a strong engineering team.
 
-Currently seeking entry-level Java backend development opportunities where I can contribute to real-world systems and grow alongside a strong engineering team.
+Currently seeking entry-level Java Full Stack development opportunities where I can contribute to real-world systems and grow alongside a strong engineering team.
 
 ---
 
@@ -16,7 +17,7 @@ Currently seeking entry-level Java backend development opportunities where I can
 
 **Languages:** Java, SQL, HTML5, CSS3 , JavaScript (ES6+) 
 
-**Frameworks & Libraries:** Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Spring AI, Hibernate, Lombok, Swagger / OpenAPI
+**Frameworks & Libraries:** Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Spring AI, Hibernate, Lombok, Swagger / OpenAPI, React.js 
 
 **Authentication & Security:** JWT, Role-Based Access Control (RBAC)
 
@@ -24,7 +25,7 @@ Currently seeking entry-level Java backend development opportunities where I can
 
 **Tools & Platforms:** Git, GitHub, Maven, IntelliJ IDEA, Postman, Docker, MySQL Workbench, Eclipse
 
-**Core Concepts:** Object-Oriented Programming, Operating System, Computer Networks, DBMS,Layered Architecture, REST API Design, Data Structures, Problem Solving
+**Core Concepts:** Object-Oriented Programming, Computer Networks, RBMS,Layered Architecture, REST API Design, Data Structures, Problem Solving
 
 ---
 
@@ -58,7 +59,7 @@ Deployed on Render — [weatherpulse-forecast.onrender.com](https://weatherpulse
 
 ---
 ### Portfolio Website
-[vijaylaxmi-portfolio](https://vijaylaxmi-portfolio.netlify.app/)
+[vijaylaxmii-portfolio](https://vijayalaxmii.netlify.app/)
 
 Personal portfolio site showcasing projects, technical skills, and services. Built with HTML, CSS, Javascript and deployed on Netlify.
 
@@ -76,7 +77,7 @@ BLDEA's V.P. Dr. P.G. Halakatti College of Engineering & Technology, Vijayapura
 
 ## Contact
 
-- **Portfolio:** [vijaylaxmi-portfolio](https://vijaylaxmi-portfolio.netlify.app/)
+- **Portfolio:** [vijaylaxmi-portfolio](https://vijayalaxmii.netlify.app/)
 - **LinkedIn:** [linkedin.com/in/vijaylaxmi-biradar-v24](https://www.linkedin.com/in/vijaylaxmi-biradar-v24/)
 - **Email:** [vijayalaxmib0106@gmail.com](mailto:vijayalaxmib0106@gmail.com)
 - **GitHub:** [github.com/vijayalaxmi168](https://github.com/vijayalaxmi168)
