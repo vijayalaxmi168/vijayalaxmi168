@@ -73,6 +73,11 @@ Personal portfolio site showcasing projects, technical skills, and services. Bui
 BLDEA's V.P. Dr. P.G. Halakatti College of Engineering & Technology, Vijayapura
 2025 · CGPA: 8.3
 
+Bachelor of Computer Applications (BCA) 
+at SB Arts And KCP Science College, Vijayapura
+2023 . CGPA: 8.2
+
+
 ---
 
 ## Contact
