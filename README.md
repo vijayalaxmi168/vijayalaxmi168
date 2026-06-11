@@ -20,10 +20,15 @@ Currently seeking entry-level Java Full Stack development opportunities where I 
 **Frameworks and Technologies:** Spring Boot, Spring MVC, Spring Security (JWT), Spring Data JPA, Spring AI, Hibernate, Lombok, Swagger/OpenAPI, React.js
 
 **Web Technologies:** HTML5, CSS3
+
 **Databases:** MySQL, PostgreSQL
+
 **Cloud and DevOps Tools:** AWS (Elastic Beanstalk, RDS), Docker, Maven, Git/GitHub
+
 **Version Control and Testing:** Git, GitHub, JUnit 5, Postman, Swagger/OpenAPI
+
 **Architecture and Design:** MVC Design Pattern, Role-Based Access Control (RBAC), Layered Architecture, REST API Design, Computer Networks
+
 **Tools:** IntelliJ IDEA, Eclipse IDE, MySQL Workbench
 
 ## Projects
