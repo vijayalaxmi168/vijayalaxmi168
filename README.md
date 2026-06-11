@@ -53,7 +53,7 @@ reply generation with persistent history tracking on AWS cloud.
 Deployed on AWS Elastic Beanstalk with RDS MySQL for production-grade 
 cloud deployment with environment-based configuration.
 
-🌐 Live — [ai-email-reply-generator]http://ai-email-reply-generator-env.eba-h28mqqps.ap-south-1.elasticbeanstalk.com/
+🌐 Live — [ai-email-reply-generator](http://ai-email-reply-generator-env.eba-h28mqqps.ap-south-1.elasticbeanstalk.com/)
 
 **Stack:** Spring Boot · Google Gemini AI · REST API · Spring Data JPA · 
 Hibernate · MySQL · AWS Elastic Beanstalk · AWS RDS · 
