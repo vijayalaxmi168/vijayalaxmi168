@@ -7,7 +7,8 @@ Java Full Stack Developer
 ## About
 
 About
-MCA graduate (2025) from BLDEA's V.P. Dr. P.G. Halakatti College of Engineering & Technology, Vijayapura with a CGPA of 8.3. I specialize in building secure, scalable full-stack applications using Java, Spring Boot, and React.js, with a focus on clean architecture, REST API design, and application security. Currently seeking entry-level Java Full Stack development opportunities where I can contribute to real-world systems and grow alongside a strong engineering team.
+MCA graduate (2025) from BLDEA's V.P. Dr. P.G. Halakatti College of Engineering & Technology, Vijayapura with a CGPA of 8.3. I specialize in building secure, scalable full-stack applications using Java, Spring Boot, and React.js, with hands-on experience in Spring Security (JWT), Spring Data JPA, Hibernate, REST APIs, and Microservices architecture.
+I've built and deployed production-ready projects including a JWT-secured Online Examination Portal with real-time anti-cheat proctoring, an AI Email Reply Generator on AWS Elastic Beanstalk, and a Weather Forecast App containerized with Docker and deployed on Render. I'm skilled in database design with MySQL and PostgreSQL, and comfortable with tools like Kafka, Docker, Maven, Git, and CI/CD pipelines.
 
 Currently seeking entry-level Java Full Stack development opportunities where I can contribute to real-world systems and grow alongside a strong engineering team.
 
@@ -36,9 +37,9 @@ Currently seeking entry-level Java Full Stack development opportunities where I 
 ### 🛡️ SecureExam Portal
 [github.com/vijayalaxmi168/secureexam-portal](https://github.com/vijayalaxmi168/secureexam-portal)
 
-A full-stack proctored online examination system with JWT-based authentication and role-based access control for STUDENT and ADMIN roles. Includes real-time anti-cheat violation tracking via browser visibility detection, automatic exam termination after three violations enforced at the backend service layer, and DTO-based answer security ensuring correct answers never leave the server.
+A full-stack online examination portal built with Java 21 and Spring Boot 3.4, where security is enforced at every layer. Students take timed exams under real-time proctoring — correct answers are protected using DTO projection so they never appear in any API response. Tab switches are detected in the browser, recorded in a dedicated audit table, and after 3 violations the exam is automatically force-terminated at the Spring service layer — not just JavaScript.  Scoring happens entirely server-side by comparing submitted answers against database values, making score manipulation impossible from the client.
 
-**Stack:** Java 21 · Spring Boot 3.4 · Spring Security 6 · JWT · MySQL · Hibernate · React 19 · Swagger UI
+**Stack:** Java 21 · Spring Boot 3.4 · Spring Security 6 · JWT · Refresh Token Rotation · Spring Data JPA · MySQL · React 19 · Axios · Swagger UI
 
 ---
 
@@ -62,11 +63,11 @@ Thymeleaf · Maven · Lombok
 ## Weather Forecast App
 [github.com/vijayalaxmi168/Weather-Forecast](https://github.com/vijayalaxmi168/Weather-Forecast)
 
-A Spring Boot web application that fetches real-time weather data and displays a 5-day forecast for any city in the world. Consumes the OpenWeatherMap REST API and renders results 
-using Thymeleaf templates with a clean dark UI.
-Deployed on Render — [weatherpulse-forecast.onrender.com](https://weatherpulse-forecast.onrender.com/)
+A production-deployed full-stack weather forecast application built with **Spring Boot 3**, consuming the OpenWeatherMap REST API via **RestTemplate** and mapping JSON responses to clean Java DTOs using **Jackson**. Displays real-time 5-day forecast grouped by day with temperature, humidity, wind speed and weather icons via **Thymeleaf** templating.Containerized with **Docker** and deployed live on **Render** with a cron-job configured for uptime monitoring.
 
-**Stack:** Spring Boot 3 · Thymeleaf · RestTemplate · Jackson · Lombok · Maven
+🌐 Live — [weatherpulse-forecast.onrender.com](https://weatherpulse-forecast.onrender.com/)
+
+**Stack:** Spring Boot 3 · Thymeleaf · RestTemplate · Jackson · Lombok · Docker · Render · Maven
 
 ---
 ### Portfolio Website
