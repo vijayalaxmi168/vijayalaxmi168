@@ -68,7 +68,7 @@ Deployed on Render — [weatherpulse-forecast.onrender.com](https://weatherpulse
 
 ---
 ### Portfolio Website
-[vijaylaxmii-portfolio](https://vijayalaxmii.netlify.app/)
+[vijayalaxmi06-portfolio](https://vijayalaxmi06.netlify.app/)
 
 Personal portfolio site showcasing projects, technical skills, and services. Built with HTML, CSS, Javascript and deployed on Netlify.
 
