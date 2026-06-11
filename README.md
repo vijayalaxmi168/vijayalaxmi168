@@ -43,9 +43,18 @@ A full-stack proctored online examination system with JWT-based authentication a
 ### AI Email Reply Generator
 [github.com/vijayalaxmi168/ai-email-reply-generator](https://github.com/vijayalaxmi168/ai-email-reply-generator)
 
-A Spring Boot backend integrated with Groq AI to generate context-aware email replies based on content and tone. Exposes REST APIs consumed by a browser extension, enabling one-click AI reply generation directly inside Gmail.
+A Spring Boot backend integrated with Google Gemini AI to generate 
+context-aware email replies based on email content and selected tone. 
+Exposes REST APIs consumed by a Thymeleaf web UI, enabling AI-powered 
+reply generation with persistent history tracking on AWS cloud.
 
-**Stack:** Spring Boot · Spring AI · REST API · Maven
+Deployed on AWS Elastic Beanstalk with RDS MySQL for production-grade 
+cloud deployment with environment-based configuration.
+
+
+**Stack:** Spring Boot · Google Gemini AI · REST API · Spring Data JPA · 
+Hibernate · MySQL · AWS Elastic Beanstalk · AWS RDS · 
+Thymeleaf · Maven · Lombok
 
 ---
 ## Weather Forecast App
