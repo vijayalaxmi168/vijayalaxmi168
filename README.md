@@ -60,7 +60,7 @@ Hibernate · MySQL · AWS Elastic Beanstalk · AWS RDS ·
 Thymeleaf · Maven · Lombok
 
 ---
-## Weather Forecast App
+## WeatherPulse Forecast App
 [github.com/vijayalaxmi168/Weather-Forecast](https://github.com/vijayalaxmi168/Weather-Forecast)
 
 A production-deployed full-stack weather forecast application built with **Spring Boot 3**, consuming the OpenWeatherMap REST API via **RestTemplate** and mapping JSON responses to clean Java DTOs using **Jackson**. Displays real-time 5-day forecast grouped by day with temperature, humidity, wind speed and weather icons via **Thymeleaf** templating.Containerized with **Docker** and deployed live on **Render** with a cron-job configured for uptime monitoring.
