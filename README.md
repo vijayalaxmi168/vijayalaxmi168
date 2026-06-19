@@ -71,7 +71,7 @@ A production-deployed full-stack weather forecast application built with **Sprin
 
 ---
 ### Portfolio Website
-[vijayalaxmi06-portfolio](https://vijayalaxmi06.netlify.app/)
+[vijayalaxmi06-portfolio](https://vijayalaxmi06-portfolio.netlify.app/)
 
 Personal portfolio site showcasing projects, technical skills, and services. Built with HTML, CSS, Javascript and deployed on Netlify.
 
@@ -94,7 +94,7 @@ at SB Arts And KCP Science College, Vijayapura
 
 ## Contact
 
-- **Portfolio:** [vijayalaxmi06-portfolio](https://vijayalaxmi06.netlify.app/)
+- **Portfolio:** [vijayalaxmi06-portfolio](https://vijayalaxmi06-portfolio.netlify.app/)
 - **LinkedIn:** [linkedin.com/in/vijaylaxmi-biradar-v24](https://www.linkedin.com/in/vijaylaxmi-biradar-v24/)
 - **Email:** [vijayalaxmib0106@gmail.com](mailto:vijayalaxmib0106@gmail.com)
 - **GitHub:** [github.com/vijayalaxmi168](https://github.com/vijayalaxmi168)
