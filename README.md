@@ -6,7 +6,7 @@ Java Full Stack Developer
 
 ## About
 
-MCA graduate (2025) from BLDEA's V.P. Dr. P.G. Halakatti College of Engineering & Technology, Vijayapura with a CGPA of 8.3. I specialize in building secure, scalable full-stack applications using Java, Spring Boot, and React.js, with hands-on experience in Spring Security (JWT), Spring Data JPA, Hibernate, REST APIs, and Microservices architecture.
+MCA graduate (2025) from BLDEA's V.P. Dr. P.G. Halakatti College of Engineering & Technology, Vijayapura with a CGPA of 8.3. I specialize in building secure, scalable full-stack applications using Java, Spring Boot, and React.js, with hands-on experience in Spring Security, Spring Data JPA, Hibernate, REST APIs, and Microservices architecture.
 I've built and deployed production-ready projects including a JWT-secured Online Examination Portal with real-time anti-cheat proctoring, an AI Email Reply Generator on AWS Elastic Beanstalk, and a Weather Forecast App containerized with Docker and deployed on Render. I'm skilled in database design with MySQL and PostgreSQL, and comfortable with tools like Kafka, Docker, Maven, Git, and CI/CD pipelines.
 
 Currently seeking entry-level Java Full Stack development opportunities where I can contribute to real-world systems and grow alongside a strong engineering team.
