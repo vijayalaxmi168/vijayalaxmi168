@@ -38,9 +38,16 @@ Currently seeking entry-level Java Full Stack development opportunities where I 
 
 A full-stack online examination portal built with Java 21 and Spring Boot 3.4, where security is enforced at every layer. Students take timed exams under real-time proctoring — correct answers are protected using DTO projection so they never appear in any API response. Tab switches are detected in the browser, recorded in a dedicated audit table, and after 3 violations the exam is automatically force-terminated at the Spring service layer — not just JavaScript.  Scoring happens entirely server-side by comparing submitted answers against database values, making score manipulation impossible from the client.
 
-**Stack:** Java 21 · Spring Boot 3.4 · Spring Security 6 · JWT · Refresh Token Rotation · Spring Data JPA · MySQL · React 19 · Axios · Swagger UI
+**Stack:** Java 21 · Spring Boot 3.4 · Spring Security 6 · JWT · Refresh Token Rotation · Spring Data JPA · MySQL · React  · Axios · Swagger UI
 
 ---
+
+### 🚨 Disaster Response Platform
+[github.com/vijayalaxmi168/disaster-response-platform](https://github.com/vijayalaxmi168/disaster-response-platform)
+
+A microservices-based disaster response coordination system built with Java 21 and Spring Boot 3.2, where six independently deployable services communicate through service discovery and REST. Citizens raise rescue requests in real time, volunteers self-assign and get matched via OpenFeign inter-service calls, and rescued people are placed into shelters with live capacity tracking. Every state change — assignment, shelter placement, completion — triggers an automated notification, keeping citizens and volunteers informed at each step without manual intervention. All services register with Eureka for dynamic discovery and route through a single Spring Cloud Gateway entry point, so the architecture scales the way a real production system would.
+
+Stack: Java 17 · Spring Boot 3.2 · Spring Cloud Gateway · Netflix Eureka · OpenFeign · Spring Data JPA · PostgreSQL · React 18 · Vite · Axios · Swagger UI
 
 ### AI Email Reply Generator
 [github.com/vijayalaxmi168/ai-email-reply-generator](https://github.com/vijayalaxmi168/ai-email-reply-generator)
