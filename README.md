@@ -89,10 +89,10 @@ Personal portfolio site showcasing projects, technical skills, and services. Bui
 ## Education
 
 **Master of Computer Applications (MCA)**
-BLDEA's V.P. Dr. P.G. Halakatti College of Engineering & Technology, Vijayapura
+at BLDEA's V.P. Dr. P.G. Halakatti College of Engineering & Technology, Vijayapura
 2025 · CGPA: 8.3
 
-Bachelor of Computer Applications (BCA) 
+**Bachelor of Computer Applications (BCA)**
 at SB Arts And KCP Science College, Vijayapura
 2023 . CGPA: 8.2
 
