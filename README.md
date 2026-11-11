@@ -1,6 +1,6 @@
 # Vijayalaxmi Biradar
 
-Java Full Stack Developer 
+Java Developer 
 
 ---
 
