@@ -17,7 +17,7 @@ Currently seeking entry-level Java Full Stack development opportunities where I 
 
 **Programming Languages:** Java (8/11/17+), SQL, JavaScript (ES6+)
 
-**Frameworks and Technologies:** Spring Boot, Spring MVC, Spring Security (JWT), Spring Data JPA, Spring Cloud, Hibernate, Swagger/OpenAPI, React.js
+**Frameworks and Technologies:** Spring Boot, Spring MVC, Spring Security (JWT), Spring Data JPA, Spring Cloud, Hibernate, Swagger/OpenAPI
 
 **Web Technologies:** HTML5, CSS3
 
